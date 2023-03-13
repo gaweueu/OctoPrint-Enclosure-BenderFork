@@ -4,10 +4,10 @@
 ### Do not forget to adjust the following variables to your own plugin.
 
 # The plugin's identifier, has to be unique
-plugin_identifier = "enclosure-bender"
+plugin_identifier = "enclosure_bender"
 
 # The plugin's python package, should be "octoprint_<plugin identifier>", has to be unique
-plugin_package = "octoprint_enclosure-bender"
+plugin_package = "octoprint_enclosure_bender"
 
 # The plugin's human readable name. Can be overwritten within OctoPrint's internal data via __plugin_name__ in the
 # plugin module
@@ -21,13 +21,13 @@ plugin_version = "4.13.2"
 plugin_description = "Awesome plugin to control everything that you ever wanted on your enclosure"
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Vitor Henrique"
+plugin_author = "Vitor Henrique x Gaweu"
 
 # The plugin's author's mail address.
 plugin_author_email = "vitormhenrique@gmail.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/vitormhenrique/OctoPrint-Enclosure"
+plugin_url = "https://github.com/vitormhenrique/OctoPrint-Enclosure-BenderFork"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
